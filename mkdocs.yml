@@ -1,10 +1,1 @@
-site_name: CONTEMPLACE
-site_author: Jizhi (Adam) ZHENG 
-nav:
-    - Home: index.md
-    - About: about.md
-theme: 
-  name: material
-plugins:
-  - tags # 标签功能插件
-  - blog # 博客功能插件
+
